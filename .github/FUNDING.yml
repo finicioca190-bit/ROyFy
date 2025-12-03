@@ -1,0 +1,318 @@
+# These are supported funding model platforms
+
+github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
+patreon: # Replace with a single Patreon username
+open_collective: # Replace with a single Open Collective username
+ko_fi: # Replace with a single Ko-fi username
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+liberapay: # Replace with a single Liberapay username
+issuehunt: # Replace with a single IssueHunt username
+lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
+polar: # Replace with a single Polar username
+buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
+thanks_dev: # Replace with a single thanks.dev username
+custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+Aqui está o *código HTML* para a página *Serviços* da ROyFy:
+
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ROyFy | Serviços</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background-color: #fdfdfd;
+      color: #333;
+    }
+    header {
+      background-color: #1e90ff;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #1e90ff;
+    }
+    .servico {
+      margin-bottom: 30px;
+    }
+    footer {
+      background-color: #1e90ff;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Serviços ROyFy</h1>
+    <p>Soluções digitais modernas para o seu crescimento</p>
+  </header>
+
+  <main>
+    <div class="servico">
+      <h2>✔ Criação de Sites Profissionais</h2>
+      <p>Desenvolvemos sites rápidos, responsivos e com identidade visual única para destacar seu negócio online.</p>
+    </div>
+
+    <div class="servico">
+      <h2>✔ Marketing Digital e Redes Sociais</h2>Aqui está o *código HTML da página “Sobre Nós”* da ROyFy:
+
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ROyFy | Sobre Nós</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background-color: #fff;
+      color: #333;
+    }
+    header {
+      background-color: #0a0a23;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #0a0a23;
+    }
+    footer {
+      background-color: #0a0a23;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sobre a ROyFy</h1>
+    <p>Somos mais que uma empresa digital — somos sua parceira de inovação</p>
+  </header>
+
+  <main>
+    <h2>Quem somos</h2>
+    <p>A ROyFy nasceu da vontade de transformar ideias em soluções acessíveis, com base em tecnologia moderna, criatividade e visão empreendedora.</p>
+
+    <h2>Missão</h2>
+    <p>Empoderar pessoas e negócios com ferramentas digitais que gerem crescimento, presença online e impacto real.</p>
+
+    <h2>Visão</h2>ROyFy chegou para revolucionar! Soluções digitais poderosas que impulsionam seu sucesso. Prepare-se para dominar o futuro! 🚀💥Aqui está o *código HTML* para a página *Serviços* da ROyFy:
+
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ROyFy | Serviços</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background-color: #fdfdfd;
+      color: #333;
+    }
+    header {
+      background-color: #1e90ff;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #1e90ff;
+    }
+    .servico {
+      margin-bottom: 30px;
+    }
+    footer {
+      background-color: #1e90ff;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Serviços ROyFy</h1>
+    <p>Soluções digitais modernas para o seu crescimento</p>
+  </header>
+
+  <main>
+    <div class="servico">
+      <h2>✔ Criação de Sites Profissionais</h2>
+      <p>Desenvolvemos sites rápidos, responsivos e com identidade visual única para destacar seu negócio online.</p>
+    </div>
+
+    <div class="servico">
+      <h2>✔ Marketing Digital e Redes Sociais</h2>Aqui está o *código HTML da página “Sobre Nós”* da ROyFy:
+
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ROyFy | Sobre Nós</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background-color: #fff;
+      color: #333;
+    }
+    header {
+      background-color: #0a0a23;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #0a0a23;
+    }
+    footer {
+      background-color: #0a0a23;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sobre a ROyFy</h1>
+    <p>Somos mais que uma empresa digital — somos sua parceira de inovação</p>
+  </header>
+
+  <main>
+    <h2>Quem somos</h2>
+    <p>A ROyFy nasceu da vontade de transformar ideias em soluções acessíveis, com base em tecnologia moderna, criatividade e visão empreendedora.</p>
+
+    <h2>Missão</h2>
+    <p>Empoderar pessoas e negócios com ferramentas digitais que gerem crescimento, presença online e impacto real.</p>
+
+    <h2>Visão</h2>Aqui está o *código HTML da página "Contato"* da ROyFy:
+
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ROyFy | Contato</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background-color: #003366;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    main {
+      max-width: 600px;
+      margin: 40px auto;
+      background-color: white;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    input, textarea {
+      width: 100%;
+      padding: 10px;
+      margin-top: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    button {
+      margin-top: 20px;
+      background-color: #003366;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    footer {
+      background-color: #003366;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Fale com a ROyFy</h1><p>Entre em contato conosco, estamos prontos para ajudar!</p>
+  </header>
+
+  <main>
+    <form>
+      <label>Nome:</label>
+      <input type="text" placeholder="Seu nome" required>
+
+      <label>E-mail:</label>
+      <input type="email" placeholder="seu@email.com" required>
+
+      <label>Mensagem:</label>
+      <textarea rows="5" placeholder="Digite sua mensagem aqui..." required></textarea>
+
+      <button type="submit">Enviar</button>
+    </form>
+
+    <p style="margin-top: 30px;">
+      Ou entre em contato direto pelo WhatsApp:<br>
+      📞 +55 00 00000-0000<br>
+      📧 contato@royfy.com
+    </p>
+  </main>
+
+  <footer>
+    © 2025 ROyFy - Todos os direitos reservados
+  </footer>
+</body>
+</html>
+```
+
+Agora deseja a *última página: Portfólio ou Projetos*?
